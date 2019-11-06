@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FuzzyMatchingSwift (0.7.0)
+  - SDWebImage (5.2.5):
+    - SDWebImage/Core (= 5.2.5)
+  - SDWebImage/Core (5.2.5)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+  - SwiftSoup (2.2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - FuzzyMatchingSwift
+  - SDWebImage
+  - SwifterSwift
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FuzzyMatchingSwift
+    - SDWebImage
+    - SwifterSwift
+    - SwiftSoup
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FuzzyMatchingSwift: bcbeda92c3d16dc338b4bfa655d5848d66b884dd
+  SDWebImage: 4eabf2fa6695c95c47724214417a9c036c965e4a
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+  SwiftSoup: 77147d707df716eb6dbd06c5c24d35ad5ba62ee1
+
+PODFILE CHECKSUM: 3965ba27baed47a53cbcf47221067a2257972d09
+
+COCOAPODS: 1.8.4
